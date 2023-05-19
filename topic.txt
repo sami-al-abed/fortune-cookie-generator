@@ -1,0 +1,7 @@
+Topic: Fortune Cookie Message
+
+This program will generate unique fortune cookie messages. 
+The program will generate random messages that combine three different pieces of data:
+    1. A general fortune message
+    2. A positive affirmation
+    3. A playful twist

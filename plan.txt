@@ -1,0 +1,11 @@
+Tasks:
+1. Set up the project structure
+2. initialize Git repo
+3. Create a JavaScript file for the message generator program
+4. Define arrays of data for generating messages
+5. Write a function to generate random messages
+6. test the message generator function
+7. Update the function to use at least three different pieces of data
+8. Test the updated message generator function
+9. Customize the program
+10. Test customized program
